@@ -1,0 +1,10 @@
+
+.border-work{
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-left: 3px dashed rebeccapurple;
+    border-right: 7px double greenyellow;
+    
+}
